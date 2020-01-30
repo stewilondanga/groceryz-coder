@@ -25,12 +25,12 @@ form {
   display: none;
 }
 
-/*.form-check-label {
+.form-check-label {
   -webkit-transition: all 144ms ease-in-out;
   transition: all 144ms ease-in-out;
 }
 
-.form-check-label:hover {
+/*.form-check-label:hover {
   -webkit-transform: scale(0.975);
   transform: scale(0.975);
 }
