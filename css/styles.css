@@ -30,12 +30,12 @@ form {
   transition: all 144ms ease-in-out;
 }
 
-/*.form-check-label:hover {
+.form-check-label:hover {
   -webkit-transform: scale(0.975);
   transform: scale(0.975);
 }
 
-.form-check-label::before {
+/*.form-check-label::before {
   display: inline-block;
   margin-right: 2px;
   -webkit-transition: -webkit-transform 144ms ease-in-out;
