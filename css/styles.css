@@ -21,11 +21,11 @@ form {
   margin: 0 5px 10px 0;
 }
 
-/*[type="checkbox"] {
+[type="checkbox"] {
   display: none;
 }
 
-.form-check-label {
+/*.form-check-label {
   -webkit-transition: all 144ms ease-in-out;
   transition: all 144ms ease-in-out;
 }
