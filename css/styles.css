@@ -35,7 +35,7 @@ form {
   transform: scale(0.975);
 }
 
-/*.form-check-label::before {
+.form-check-label::before {
   display: inline-block;
   margin-right: 2px;
   -webkit-transition: -webkit-transform 144ms ease-in-out;
@@ -45,7 +45,7 @@ form {
   content: '+';
 }
 
-[type="checkbox"]:not(:checked)+.form-check-label,
+/*[type="checkbox"]:not(:checked)+.form-check-label,
 [type="checkbox"]:not(:checked)+.form-check-label:hover {
   background-color: transparent;
   color: #363636;
