@@ -45,14 +45,14 @@ form {
   content: '+';
 }
 
-/*[type="checkbox"]:not(:checked)+.form-check-label,
+[type="checkbox"]:not(:checked)+.form-check-label,
 [type="checkbox"]:not(:checked)+.form-check-label:hover {
   background-color: transparent;
   color: #363636;
   border-color: currentColor;
 }
 
-[type="checkbox"]:checked+.form-check-label::before {
+/*[type="checkbox"]:checked+.form-check-label::before {
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
 }
