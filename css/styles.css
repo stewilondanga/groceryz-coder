@@ -57,7 +57,7 @@ form {
   transform: rotate(45deg);
 }
 
-/*pre code {
+pre code {
   display: block;
   margin: 2em 0;
   border-radius: 0.25rem;
@@ -66,7 +66,7 @@ form {
   color: ghostwhite;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
